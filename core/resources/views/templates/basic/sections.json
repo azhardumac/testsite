@@ -1,0 +1,267 @@
+{
+    "feature": {
+        "builder": true,
+        "name": "Feature",
+        "content": {
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "description": "textarea",
+            "modal": true,
+
+            "images":{
+                "background_image":{
+                    "size":"625x315"
+                }
+            }
+        }
+
+    },
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1080"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text",
+            "btn_text": "text",
+            "btn_link": "text",
+            "phase_text": "text"
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Footer",
+        "content": {
+            "heading": "textarea",
+            "copy_right": "text"
+        },
+        "element":{
+            "social_icon":"icon",
+            "social_link":"text",
+            "modal":true
+        }
+    },
+    "icoPlan": {
+        "builder": true,
+        "name": "Ico Plan",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "roadMap": {
+        "builder": true,
+        "name": "ICO Roadmap",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"2250x1500"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "date": "datepicker",
+            "title": "text",
+            "text": "textarea",
+            "modal": false
+        }
+    },
+    "links":{
+        "builder":true,
+        "no_selection":true,
+        "name": "Links Pages",
+        "content":{
+            "images":{
+                "image":{
+                    "size":"1920x1010"
+                }
+            }
+        },
+        "element":{
+            "title":"text",
+            "content":"textarea-nic",
+            "modal":false
+        }
+    },
+    "whatIsICO": {
+        "builder": true,
+        "name": "What is ICO",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"526x582"
+                }
+            },
+            "heading": "text",
+            "description": "textarea",
+            "btn_text": "text",
+            "btn_link": "text",
+            "video_link": "text"
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Image",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1010"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Image",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1010"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "ac_recovery": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Account Recovery",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1010"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "team": {
+        "builder": true,
+        "name": "Team Member",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"275x335"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "modal": true
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x865"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "textarea",
+            "btn_text": "text"
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"85x90"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "say": "textarea",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Content",
+        "content": {
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "question": "text",
+            "ans": "textarea",
+            "modal": true
+        }
+    },
+    "contact": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Contact Us",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1010"
+                }
+            },
+            "heading": "text"
+        },
+        "element": {
+            "heading": "text",
+            "text": "text",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "user": {
+        "builder": true,
+        "no_selection":true,
+        "name": "User Dahsboard Image",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1080"
+                }
+            }
+        }
+    },
+    "headerInfo": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Header Info",
+        "content": {
+            "mobile": "text",
+            "email": "text"
+        }
+    }
+}
